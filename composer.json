@@ -1,0 +1,7 @@
+{
+  "name": "dishiao/composer-test",
+  "require": {
+    "monolog/monolog": "1.2.*",
+    "phpoffice/phpspreadsheet": "1.6.*"
+  }
+}
